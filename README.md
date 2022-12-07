@@ -1,4 +1,5 @@
 <hr>
+<img align="left" src="cat.png" height="300" />
 
 ```yaml
 @end1an
@@ -18,5 +19,4 @@ Learning: Rust, Perl
 Certificates: OSCP, BSCP, eMAPT
 ——————————————————————
 ```
-<img align="right" src="cat.png" height="300" />
 <hr>
