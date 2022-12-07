@@ -18,5 +18,5 @@ Learning: Rust, Perl
 Certificates: OSCP, BSCP, eMAPT
 ——————————————————————
 ```
-<img align="left" src="cat.png" height="300" />
+<img align="right" src="cat.png" height="300" />
 <hr>
