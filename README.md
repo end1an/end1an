@@ -1,5 +1,5 @@
 <hr>
-<img align="left" src="cat.png" width="250" /> 
+<img align="left" src="cat.png" height="100%" /> 
 
 ```yaml
 @end1an
