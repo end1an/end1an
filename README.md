@@ -11,7 +11,7 @@ Memory/Storage: 16GB/1TB
 Discord: end1an#6054
 Twitter & Telegram: end1an
 ——————————————————————
-Languages: Python, JS, Java, GO, Solidity, C, C#
+Languages: Python, JS, PHP, Java, GO, Solidity, C, C#
 Toolkit: macVim, VSCode, Kali
 Learning: Rust, Perl
 ——————————————————————
