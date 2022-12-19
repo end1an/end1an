@@ -1,5 +1,5 @@
 <hr>
-<img align="left" src="phupah.png" height="300" />
+<img align="left" src="phupah.jpg" height="300" />
 
 ```yaml
 @end1an
