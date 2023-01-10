@@ -15,7 +15,7 @@ Languages: Python, JS, PHP, Java, GO, Solidity, C, C#
 Toolkit: macVim, VSCode, Kali
 Learning: Rust, Perl
 ——————————————————————
-Certificates: OSCP, BSCP, eMAPT
+Certificates: OSCP, CRTP, BSCP, eMAPT
 ——————————————————————
 ```
 <hr>
